@@ -4,7 +4,7 @@ Sitio web para reproducir el corto animado **«El viaje de una tapa de botella»
 de **JIANLIANG.Z** (50 s, 1920 × 1080, sin diálogo), con un relato de fondo sobre
 el plástico que llega al mar.
 
-**Publicado en: <https://jlz0614.github.io/botella/>**
+**Publicado en: <https://botella.idio.cc/>** (dominio propio, vía `CNAME`)
 
 Sin frameworks, sin dependencias y sin proceso de compilación: HTML, CSS y
 JavaScript a secas, más el vídeo original. El sitio se publica con GitHub Pages
